@@ -3,7 +3,7 @@ h1 {
 	font-size: 33px;
 	font-style: normal;
 	font-variant: normal;
-	font-weight: 500;
+	font-weight: 300;
 	line-height: 26.4px;
 	margin-left: 2cm;
 	marging-right: 2cm;
@@ -13,7 +13,7 @@ h2 {
 	font-size: 22px;
 	font-style: normal;
 	font-variant: normal;
-	font-weight: 500;
+	font-weight: 300;
 	line-height: 21.4px;
 	margin-left: 2cm;
 	marging-right: 2cm;
@@ -23,7 +23,7 @@ ul {
 	font-size: 14px;
 	font-style: normal;
 	font-variant: normal;
-	font-weight: 400;
+	font-weight: 300;
 	line-height: 20px;
 	margin-left: 2cm;
 	marging-right: 2cm;
@@ -33,7 +33,7 @@ h3 {
 	font-size: 14px;
 	font-style: normal;
 	font-variant: normal;
-	font-weight: 500;
+	font-weight: 300;
 	line-height: 15.4px;
 	margin-left: 2cm;
 	marging-right: 2cm;
@@ -43,7 +43,7 @@ p {
 	font-size: 14px;
 	font-style: normal;
 	font-variant: normal;
-	font-weight: 400;
+	font-weight: 200;
 	line-height: 20px;
 	margin-left: 2cm;
 	marging-right: 2cm;
