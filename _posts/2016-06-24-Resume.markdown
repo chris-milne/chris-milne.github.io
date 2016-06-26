@@ -1,0 +1,143 @@
+---
+layout: post
+title:  "Resume"
+date:   2016-06-24 21:21:12 -0400
+categories: jekyll update
+---
+Christopher Milne    
+==================
+-------------------------------------------------
+
+
+miln0068@algonquincollege.com  
+613-715-4956  
+1073 Aldea Ave.  
+Ottawa, ON  
+Canada
+K1H 8B8  
+
+----------------------------------------
+
+## Skills  
+
+**Technical communication skills**  
+
+* technical writing   
+* technical editing   
+* project management  
+* visual design   
+* usability   
+* instructional design   
+* information architecture  
+
+**Software applications**   
+
+* Adobe FrameMaker  
+* Adobe RoboHelp  
+* Adobe InDesign   
+* Adobe Acrobat XI   
+* MadCap Flare   
+* Microsoft Office including Microsoft Word, Microsoft PowerPoint, Microsoft Excel, and Microsoft Project   
+* Microsoft Visio  
+* Camtasia   
+* Atlassian Confluence   
+
+**Markup languages**  
+
+* Markdown  
+* LaTeX   
+* HTML   
+* XML
+
+**Version control systems**  
+
+* Git  
+* Subversion   
+
+---------------------------------------------
+
+## Experience
+
+Currently
+:   **Technical Writer Intern**     
+*Oracle*   
+
+* Demonstrating excellent writing, research, and analytical skills by authoring technical documentation for an upcoming release of Oracle's MetaSolv Solution   
+* Employing attention to detail by editing documentation to comply with Oracle's standards and style guidelines  
+* Designing the structure and performing UX testing for Oracle's internal knowledge database  * Developing interpersonal and communication skills by working in geographically dispersed teams      
+
+
+September 2015 - April 2016  
+:   **Technical Writer Student**   
+*Algonquin College of Applied Arts and Technology*  
+
+* Developed skills in technical communication including writing, editing, design, UX and usability, and instructional design  
+* Created a wide variety of technical communication deliverables including a white paper, proposal, tutorial, and user manual  
+* Presented technical communication deliverables using a variety of techniques including authoring tools for print, online, and mobile; screen casting; and oral presentations  
+* Worked extensively in groups with other writers as well as a culminating project in collaboration with Algonquin College's mechanical engineering students  
+
+
+July 2014 - September 2015    
+:   **Barista**   
+*Second Cup Coffee Company, Ottawa*   
+
+* Provided outstanding customer service through excellent product knowledge and attention to detail   
+* Demonstrated excellent organizational skills and the ability to work independently   
+* Honed communication skills by serving customers in both English and French   
+
+
+May 2013 - December 2013  
+:   **Supervisor**    
+*Lunch, Ottawa*  
+
+* Managed a food truck for day-to-day operations as well as for special events  
+* Supervised staff and delegated tasks developing leadership qualities  
+* Operated with tight schedules and strict deadlines  
+
+-----------------------------------------
+
+## Education   
+
+Currently  
+:    **Technical Writer (Graduate Certificate)**  
+*Algonquin College of Applied Arts and Technology*  
+Dean's Honour List  
+
+&nbsp;
+
+Currently  
+:    **Master of Arts**  
+*University of Ottawa*  
+Music Theory  
+
+&nbsp;
+
+January 2014
+:    **Bachelor of Music**  
+*University of Ottawa*  
+Classical Guitar Performance  
+Magna Cum Laude  
+Dean's Honour List  
+
+-------------------------------------------------
+
+## Professional Memberships   
+
+* Society for Technical Communication
+* Editors' Association of Canada  
+
+-------------------------------------------------
+
+## Volunteer Positions  
+
+* Class Representative   
+Algonquin College of Applied Arts and Technology    
+* Student Academic Council  
+Algonquin College of Applied Arts and Technology  
+* College Student Representative  
+Society for Technical Communication  
+
+-------------------------------------------------
+
+## References  
+Available upon request
