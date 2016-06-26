@@ -5,8 +5,8 @@ h1 {
 	font-variant: normal;
 	font-weight: 250;
 	line-height: 40px;
-	margin-left: 2cm;
-	marging-right: 2cm;
+	margin-left: 3cm;
+	marging-right: 3cm;
 }
 h2 {
 	font-family: "Avenir Next";
@@ -15,8 +15,8 @@ h2 {
 	font-variant: normal;
 	font-weight: 250;
 	line-height: 30px;
-	margin-left: 2cm;
-	marging-right: 2cm;
+	margin-left: 3cm;
+	marging-right: 3cm;
 	background-color: lightgrey;
 }
 ul {
@@ -26,8 +26,8 @@ ul {
 	font-variant: normal;
 	font-weight: 350;
 	line-height: 20px;
-	margin-left: 2cm;
-	marging-right: 2cm;
+	margin-left: 3cm;
+	marging-right: 3cm;
 }
 h3 {
 	font-family: "Avenir Next";
@@ -36,8 +36,8 @@ h3 {
 	font-variant: normal;
 	font-weight: 350;
 	line-height: 15.4px;
-	margin-left: 2cm;
-	marging-right: 2cm;
+	margin-left: 3cm;
+	marging-right: 3cm;
 }
 p {
 	font-family: "Avenir Next";
@@ -46,8 +46,8 @@ p {
 	font-variant: normal;
 	font-weight: 300;
 	line-height: 20px;
-	margin-left: 2cm;
-	marging-right: 2cm;
+	margin-left: 3cm;
+	marging-right: 3cm;
 }
 dt {
 	font-family: "Avenir Next";
@@ -56,8 +56,8 @@ dt {
 	font-variant: normal;
 	font-weight: 300;
 	line-height: 20px;
-	margin-left: 1cm;
-	marging-right: 2cm;
+	margin-left: 2cm;
+	marging-right: 3cm;
 }
 blockquote {
 	font-family: "Avenir Next";
