@@ -56,7 +56,17 @@ dt {
 	font-variant: normal;
 	font-weight: 300;
 	line-height: 20px;
-	margin-left: 1.5cm;
+	margin-left: 2cm;
+	marging-right: 3cm;
+}
+dd {
+	font-family: "Avenir Next";
+	font-size: 18px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 300;
+	line-height: 20px;
+	margin-left: 2cm;
 	marging-right: 3cm;
 }
 blockquote {
