@@ -8,6 +8,16 @@ h1 {
 	margin-left: 2cm;
 	marging-right: 2cm;
 }
+h2 {
+	font-family: Futura,Trebuchet MS,Arial,sans-serif;
+	font-size: 22px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 21.4px;
+	margin-left: 2cm;
+	marging-right: 2cm;
+}
 h3 {
 	font-family: Futura,Trebuchet MS,Arial,sans-serif;
 	font-size: 14px;
