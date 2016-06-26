@@ -1,5 +1,5 @@
 h1 {
-	font-family: "Avenir Next", Helvetica;
+	font-family: "Avenir Next";
 	font-size: 40px;
 	font-style: normal;
 	font-variant: normal;
@@ -10,18 +10,18 @@ h1 {
 	background-color: lightgrey;
 }
 h2 {
-	font-family: "Avenir Next", Helvetica, sans-serif;
+	font-family: "Avenir Next";
 	font-size: 33px;
 	font-style: normal;
 	font-variant: normal;
-	font-weight: 250;
+	font-weight: 200;
 	line-height: 35px;
 	margin-left: 2cm;
 	margin-right: 3cm;
 	background-color: lightgrey;
 }
 ul {
-	font-family: "Avenir Next", Helvetica, sans-serif;
+	font-family: "Avenir Next";
 	font-size: 14px;
 	font-style: normal;
 	font-variant: normal;
@@ -31,7 +31,7 @@ ul {
 	margin-right: 3cm;
 }
 h3 {
-	font-family: "Avenir Next", Helvetica, sans-serif;
+	font-family: "Avenir Next";
 	font-size: 14px;
 	font-style: normal;
 	font-variant: normal;
@@ -41,7 +41,7 @@ h3 {
 	margin-right: 3cm;
 }
 p {
-	font-family: "Avenir Next", Helvetica, sans-serif;
+	font-family: "Avenir Next";
 	font-size: 14px;
 	font-style: normal;
 	font-variant: normal;
@@ -51,7 +51,7 @@ p {
 	margin-right: 3cm;
 }
 dt {
-	font-family: "Avenir Next", Helvetica, sans-serif;
+	font-family: "Avenir Next";
 	font-size: 18px;
 	font-style: normal;
 	font-variant: normal;
@@ -61,7 +61,7 @@ dt {
 	margin-right: 3cm;
 }
 dd {
-	font-family: "Avenir Next", Helvetica, sans-serif;
+	font-family: "Avenir Next";
 	font-size: 18px;
 	font-style: normal;
 	font-variant: normal;
