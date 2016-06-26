@@ -48,6 +48,16 @@ p {
 	margin-left: 2cm;
 	marging-right: 2cm;
 }
+dt {
+	font-family: Futura,Trebuchet MS,Arial,sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 200;
+	line-height: 20px;
+	margin-left: 2cm;
+	marging-right: 2cm;
+}
 blockquote {
 	font-family: Futura,Trebuchet MS,Arial,sans-serif;
 	font-size: 21px;
