@@ -37,8 +37,8 @@ li {
 	font-variant: normal;
 	font-weight: 350;
 	line-height: 20px;
-	margin-left: 3cm;
-	margin-right: 3cm;
+	margin-left: 2cm;
+	margin-right: 2cm;
 }
 h3 {
 	font-family: "Avenir Next";
@@ -55,7 +55,7 @@ p {
 	font-size: 14px;
 	font-style: normal;
 	font-variant: normal;
-	font-weight: 300;
+	font-weight: 350;
 	line-height: 20px;
 	margin-left: 2.5cm;
 	margin-right: 3cm;
@@ -65,7 +65,7 @@ dt {
 	font-size: 18px;
 	font-style: normal;
 	font-variant: normal;
-	font-weight: 300;
+	font-weight: 350;
 	line-height: 20px;
 	margin-left: 2cm;
 	margin-right: 3cm;
@@ -75,7 +75,7 @@ dd {
 	font-size: 18px;
 	font-style: normal;
 	font-variant: normal;
-	font-weight: 300;
+	font-weight: 350;
 	line-height: 20px;
 	margin-left: 2cm;
 	margin-right: 3cm;
