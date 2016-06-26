@@ -30,6 +30,16 @@ ul {
 	margin-left: 3cm;
 	margin-right: 3cm;
 }
+li {
+	font-family: "Avenir Next";
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 350;
+	line-height: 20px;
+	margin-left: 3cm;
+	margin-right: 3cm;
+}
 h3 {
 	font-family: "Avenir Next";
 	font-size: 14px;
