@@ -11,7 +11,7 @@ categories: jekyll update
 * technical editing   
 * project management  
 * visual design   
-* usability   
+* usability and UX  
 * instructional design   
 * information architecture  
 
