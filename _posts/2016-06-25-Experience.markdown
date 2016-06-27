@@ -22,7 +22,7 @@ September 2015 - April 2016
 * Developed skills in technical communication including writing, editing, design, UX and usability, and instructional design  
 * Created a wide variety of technical communication deliverables including a white paper, proposal, tutorial, and user manual  
 * Presented technical communication deliverables using a variety of techniques including authoring tools for print, online, and mobile; screen casting; and oral presentations  
-* Worked extensively in groups with other writers as well as a culminating project in collaboration with Algonquin College's mechanical engineering students  
+* Worked extensively in groups with other writers as well as in a culminating project in collaboration with Algonquin College's mechanical engineering students  
 
 
 July 2014 - September 2015    
