@@ -31,8 +31,10 @@ categories: jekyll update
 
 * Markdown  
 * LaTeX   
-* HTML   
+* HTML
+* CSS
 * XML
+* Jekyll
 
 ## Version control systems   
 
