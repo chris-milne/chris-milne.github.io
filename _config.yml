@@ -10,7 +10,7 @@ title: Christopher Milne - Technical Writer
 email: miln0068@algonquinlive.com
 description: > # this means to ignore newlines until "baseurl:"
   This space is for Christopher Milne's technical writing resume.
-baseurl: "https://chris-milne.github.io/Resume" # the subpath of your site, e.g. /blog
+baseurl: "https://chris-milne.github.io/posts" # the subpath of your site, e.g. /blog
 url: "https://chris-milne.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
