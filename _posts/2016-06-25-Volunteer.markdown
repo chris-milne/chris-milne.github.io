@@ -4,7 +4,7 @@ title:  "Volunteer Positions"
 date:   2016-06-24 21:21:12 -0400
 categories: jekyll update
 ---
-## Volunteer Positions  
+<!--## Volunteer Positions-->  
 
 * Class Representative   
 Algonquin College of Applied Arts and Technology    
