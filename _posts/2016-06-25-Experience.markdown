@@ -11,7 +11,8 @@ Currently
 
 * Demonstrating excellent writing, research, and analytical skills by authoring technical documentation for an upcoming release of Oracle's MetaSolv Solution   
 * Employing attention to detail by editing documentation to comply with Oracle's standards and style guidelines  
-* Designing the structure and performing UX testing for Oracle's internal knowledge database  * Developing interpersonal and communication skills by working in geographically dispersed teams      
+* Designing the structure and performing UX testing for Oracle's internal knowledge database   
+* Developing interpersonal and communication skills by working in geographically dispersed teams        
 
 
 September 2015 - April 2016  
