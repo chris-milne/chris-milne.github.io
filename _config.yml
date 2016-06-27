@@ -24,4 +24,4 @@ kramdown:
 gems:
   - jekyll-paginate
   # other gems
-permalink: /Resume/:year/:month/:day/:title
+permalink: /post/:year/:month/:day/:title
