@@ -5,7 +5,7 @@ date:   2016-06-24 21:21:12 -0400
 categories: jekyll update
 ---
 
-##Technical communication skills  
+## Technical communication skills  
 
 * technical writing   
 * technical editing   
@@ -15,7 +15,7 @@ categories: jekyll update
 * instructional design   
 * information architecture  
 
-##Software applications   
+## Software applications   
 
 * Adobe FrameMaker  
 * Adobe RoboHelp  
@@ -27,14 +27,14 @@ categories: jekyll update
 * Camtasia   
 * Atlassian Confluence   
 
-##Markup languages  
+## Markup languages  
 
 * Markdown  
 * LaTeX   
 * HTML   
 * XML
 
-##Version control systems   
+## Version control systems   
 
 * Git  
 * Subversion   
