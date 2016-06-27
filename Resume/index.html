@@ -6,6 +6,6 @@ title: Resume
 	<ul class="Resume">
 
 	  {% for post in site.Resume %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	    <li><span>{{ Resume.date | date_to_string }}</span> » <a href="{{ Resume.url }}" title="{{ Resume.title }}">{{ Resume.title }}</a></li>
 	  {% endfor %}
 	</ul>
