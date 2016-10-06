@@ -10,7 +10,7 @@ h1 {
 	background-color: lightgrey;
 }
 h2 {
-	font-family: "Avenir Next";
+	font-family: "ProximaNovaRegular";
 	font-size: 33px;
 	font-style: normal;
 	font-variant: normal;
@@ -21,7 +21,7 @@ h2 {
 	background-color: lightgrey;
 }
 ul {
-	font-family: "Avenir Next";
+	font-family: "ProximaNovaRegular";
 	font-size: 14px;
 	font-style: normal;
 	font-variant: normal;
@@ -31,7 +31,7 @@ ul {
 	margin-right: 3cm;
 }
 li {
-	font-family: "Avenir Next";
+	font-family: "ProximaNovaRegular";
 	font-size: 14px;
 	font-style: normal;
 	font-variant: normal;
@@ -41,7 +41,7 @@ li {
 	margin-right: cm;
 }
 h3 {
-	font-family: "Avenir Next";
+	font-family: "ProximaNovaRegular";
 	font-size: 18px;
 	font-style: normal;
 	font-variant: normal;
@@ -51,7 +51,7 @@ h3 {
 	margin-right: 3cm;
 }
 p {
-	font-family: "Avenir Next";
+	font-family: "ProximaNovaRegular";
 	font-size: 14px;
 	font-style: normal;
 	font-variant: normal;
@@ -61,7 +61,7 @@ p {
 	margin-right: 3cm;
 }
 dt {
-	font-family: "Avenir Next";
+	font-family: "ProximaNovaRegular";
 	font-size: 14px;
 	font-style: normal;
 	font-variant: normal;
@@ -81,7 +81,7 @@ dd {
 	margin-right: 3cm;
 }
 blockquote {
-	font-family: "Avenir Next";
+	font-family: "ProximaNovaRegular";
 	font-size: 21px;
 	font-style: normal;
 	font-variant: normal;
@@ -91,7 +91,7 @@ blockquote {
 	margin-right: 2cm;
 }
 pre {
-	font-family: "Avenir Next";
+	font-family: "ProximaNovaRegular";
 	font-size: 13px;
 	font-style: normal;
 	font-variant: normal;
